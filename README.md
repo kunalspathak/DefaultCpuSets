@@ -1,0 +1,1 @@
+Library to set the CPU sets. Import the library and call `ConfigureCpuSet.SetCpuSets()` with required cpus.
